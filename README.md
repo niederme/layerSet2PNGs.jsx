@@ -24,4 +24,4 @@ That’s all!
 
 ## Feedback
 
-Send questions, problems or requests to me on Twitter: [@niederme](https://twitter.com/niederme/).
+You can reach me here, or on Twitter ([@niederme](https://twitter.com/niederme/)).
