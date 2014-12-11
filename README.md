@@ -1,12 +1,10 @@
-# layerSet2PNGs.jsx – Export Photoshop Groups to PNGs, With File Naming
-
-## Installation
+# Installation
 
 There are a few ways to install and run scripts for Adobe apps. The instructions below are one such way, [but there are other ways.](http://speedscraps.blogspot.com/2010/04/installing-scripts-photoshop.html)
 
 Download the [JSX file](https://raw.githubusercontent.com/niederme/adobeCS-scripts/master/layerSet2PNGs.jsx) and place it in a location of your choice. I [made an alias](http://www.dummies.com/how-to/content/basics-of-aliases-in-os-x-mavericks.html) and copied it to my Desktop for easy access.
 
-## Use
+# Use
 
 This is a helpful tool, but you have to set up your PSD correctly:
 
