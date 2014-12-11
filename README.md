@@ -19,7 +19,7 @@ This is a helpful tool, but you have to set up your PSD correctly:
 3. You can create as many comp groupings as you need.  
   
 4. When you’re ready to export, your Layers palette should look something like this:  
-  
+  d
 ![](http://f.cl.ly/items/1u2Q0q2v343P0h2F2s42/Screen%20Shot%202014-12-11%20at%2011.30.03%20AM.png)  
 *There are 7 top-level groups, so the script will export 7 PNGs, using the filenames of each group.*  
   
