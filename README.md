@@ -13,7 +13,7 @@ This is a helpful tool, but you have to set up your PSD correctly:
 1. First, group all of the layers for a given comp in the top-level of the Layers palette.  
 *Generally it is helpful to include a full-bleed background layer on the bottom.*
 2. Name this top-level group something — this will be the PNG file name on export.  
-*Spaces will be converted to hyphens, so a group named **1 Home Page** becomes **1-Home-Page.png**.*
+*Spaces will be converted to hyphens, so a group named `1 Home Page` becomes `1-Home-Page.png`.*
 3. You can create as many comp groupings as you need.
 4. When you’re ready to export, your Layers palette should look something like this:  
 ![](http://f.cl.ly/items/1u2Q0q2v343P0h2F2s42/Screen%20Shot%202014-12-11%20at%2011.30.03%20AM.png)  
