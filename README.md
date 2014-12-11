@@ -11,16 +11,22 @@ Download the JSX file and place it in a location of your choice. I [made an alia
 This is a helpful tool, but you have to set up your PSD correctly:
 
 1. First, group all of the layers for a given comp in the top-level of the Layers palette.  
-*Generally it is helpful to include a full-bleed background layer on the bottom.*
+*Generally it is helpful to include a full-bleed background layer on the bottom.*  
+
 2. Name this top-level group something — this will be the PNG file name on export.  
-*Spaces will be converted to hyphens, so a group named `1 Home Page` becomes `1-Home-Page.png`.*
-3. You can create as many comp groupings as you need.
+*Spaces will be converted to hyphens, so a group named `1 Home Page` becomes `1-Home-Page.png`.*  
+
+3. You can create as many comp groupings as you need.  
+
 4. When you’re ready to export, your Layers palette should look something like this:  
 ![](http://f.cl.ly/items/1u2Q0q2v343P0h2F2s42/Screen%20Shot%202014-12-11%20at%2011.30.03%20AM.png)  
-*There are 7 top-level groups, so the script will export 7 PNGs, using the filenames of each group.*
-8. Run the script, by double-clicking the file or alias.
+*There are 7 top-level groups, so the script will export 7 PNGs, using the filenames of each group.*  
+
+8. Run the script, by double-clicking the file or alias.  
+
 9. A dialog should pop up… click Yes:  
-![](http://f.cl.ly/items/2Z0b013F0x0E243z2D03/Screen%20Shot%202014-12-11%20at%2011.58.30%20AM.png)
+![](http://f.cl.ly/items/2Z0b013F0x0E243z2D03/Screen%20Shot%202014-12-11%20at%2011.58.30%20AM.png)  
+
 10. The script will run, and export PNGs in the *same folder as your PSD.* When it finishes, you should have 7 flat PNGs:  
 ![](http://f.cl.ly/items/07322D110n0f2B2U230P/Screen%20Shot%202014-12-11%20at%2012.00.54%20PM.png)  
 *Note, I used Em dashes in my group names, which is why you see such long dashes.
